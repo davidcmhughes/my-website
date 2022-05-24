@@ -1,3 +1,3 @@
 # my-website
 
-This is an upadte
+This is an update
